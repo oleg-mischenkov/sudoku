@@ -11,7 +11,7 @@ To run the application you need to start two docker containers.
    - docker run -d -p 8080:8080 sudoku-app
    - make a server test (http://localhost:8080/sudoku/)
 
-2) To start server:
+2) To start front:
     
     - Go to https://github.com/oleg-mischenkov/sudoku-front
     - docker build -t angularjs-app .
